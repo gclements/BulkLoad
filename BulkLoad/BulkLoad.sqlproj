@@ -60,7 +60,7 @@
     <Folder Include="Properties" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="stg.BulkFile.sql" />
+    <Build Include="stg.BulkFile2.sql" />
     <Build Include="stg.sql" />
   </ItemGroup>
   <ItemGroup>
