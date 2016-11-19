@@ -1,6 +1,6 @@
 ﻿CREATE TABLE [stg].[BulkFile]
 (
-	[pkBulkFile] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
+	[pkBulkFile] INT NOT NULL PRIMARY KEY IDENTITY, 
     [Column01] VARCHAR(100) NULL, 
     [Column02] VARCHAR(100) NULL, 
     [Column03] VARCHAR(100) NULL, 
