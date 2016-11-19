@@ -9,6 +9,5 @@
     [Column06] VARCHAR(100) NULL, 
     [Column07] VARCHAR(100) NULL, 
     [Column08] VARCHAR(100) NULL, 
-    [Column09] VARCHAR(100) NULL, 
-    [Column10] VARCHAR(100) NULL
+    [Column09] VARCHAR(100) NULL
 )
